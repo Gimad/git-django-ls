@@ -1,0 +1,36 @@
+body {
+    background: #f8f8f8;
+}
+
+ol {
+    list-style-type: none;
+    font: bold 16px Arial;
+}
+
+h2 {
+    font: black 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+}
+
+p {
+    font: #707070 14px italic;
+    line-height: 16px;
+}
+
+img {
+    border: 3px solid black;
+}
+
+a:hover {
+    color: red;
+    font-weight: bold
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse
+}
+td {
+    border: 2px solid black;
+}
